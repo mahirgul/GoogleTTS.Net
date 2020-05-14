@@ -1,5 +1,4 @@
-# GoogleTTS.Net
-Google TTS script for .NET
+#Google TTS script for .NET
 =============
 
 This script makes use of Google's translate text to speech service
