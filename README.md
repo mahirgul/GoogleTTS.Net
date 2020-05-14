@@ -9,3 +9,9 @@ This TTS service is 'unofficial' and not supported by Google,
 it can be terminated at any point with no warning.
 People looking for TTS solutions to base their projects/products on
 should look for alternative, officially supported  services.
+
+Requirements
+------------
+.Net 4.0
+NAudio
+Internet access in order to contact google and get the voice data.
